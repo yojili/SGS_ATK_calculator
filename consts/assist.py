@@ -1,0 +1,5 @@
+assistATK1=640307
+assistATK2=537278
+assistATK3=515022
+assistATK4=540830
+assistATK5=608963
