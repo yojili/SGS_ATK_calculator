@@ -39,7 +39,7 @@ totalDMG=0
 crit=0
 
 def logs(message):
-  # print(message)
+  print(message)
   pass
 
 def logic():
